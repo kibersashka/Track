@@ -11,11 +11,11 @@ public class Air extends Objects {
         this.distance = distance;
     }
 
-    public int getTime() {
+    public int getDistance() {
         return distance;
     }
 
-    public void setTime(int distance) {
+    public void setDistance(int distance) {
         this.distance = distance;
     }
 

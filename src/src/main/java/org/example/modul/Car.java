@@ -10,11 +10,11 @@ public class Car extends Objects {
         this.age = age;
     }
 
-    public int getToplivo() {
+    public int getAge() {
         return age;
     }
 
-    public void setToplivo() {
+    public void setAge() {
         this.age = age;
     }
     @Override
